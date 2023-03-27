@@ -1,0 +1,10 @@
+@media screen and (max-width:1200px) {
+     .banner_form h1{
+          font-size: 29px;
+     }
+}
+@media screen and (max-width:992px) {
+     .banner_form h1{
+          font-size: 24px;
+     }
+}
