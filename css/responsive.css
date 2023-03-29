@@ -7,4 +7,7 @@
      .banner_form h1{
           font-size: 24px;
      }
+     .letsfind_img::after{
+          display: none;
+     }
 }
